@@ -3,5 +3,5 @@
 ## Contributors
 
 - Conor Ney
-- David Guan
+- David Guangitm
 - Heidi Pico 
