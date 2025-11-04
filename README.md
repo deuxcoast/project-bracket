@@ -3,4 +3,3 @@
 ## Contributors
 
 - Conor Ney
-- David Guan
