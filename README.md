@@ -3,5 +3,6 @@
 ## Contributors
 
 - Conor Ney
+- David Guan
 - Seokyoung Hong
-- Heidi Pico 
+- Heidi Pico
