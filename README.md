@@ -3,4 +3,4 @@
 ## Contributors
 
 - Conor Ney
-- Heidi Pico 
+- Heidi Pico (again)
