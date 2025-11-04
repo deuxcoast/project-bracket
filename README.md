@@ -6,3 +6,4 @@
 - David Guan
 - Seokyoung Hong
 - Heidi Pico
+- Suining Liu
