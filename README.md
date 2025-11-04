@@ -3,3 +3,4 @@
 ## Contributors
 
 - Conor Ney
+- Seokyoung Hong
